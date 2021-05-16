@@ -30,4 +30,5 @@
  ### 4) terraform.tfvars
   This template defines different variables values which can be modified as per the requirement.
   
- 
+For more information on Azure provider for Terraform, follow below link -
+https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs
