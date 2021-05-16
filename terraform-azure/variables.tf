@@ -1,0 +1,27 @@
+variable "location" {}
+variable "StorageAccountName" {}
+variable "ResourceGroup" {}
+variable "virtualnetwork" {}
+variable "mgmtsubnet" {}
+variable "outsidesubnet" {}
+variable "insidesubnet" {}
+variable "FirewallVmName" {}
+variable "availability_set" {}
+variable "firewall1mgmt" {}
+variable "firewall1out" {}
+variable "firewall1ins" {}
+variable "firewall2mgmt" {}
+variable "firewall2out" {}
+variable "firewall2ins" {}
+variable "vmsize" {}
+variable "vmplan" {}
+variable "vmpublisher" {}
+variable "vmproduct" {}
+variable "vmversion" {}
+variable "vmusername" {}
+variable "vmpassword" {}
+variable "mgmtsubnetname" {}
+variable "outsidesubnetname" {}
+variable "insidesubnetname" {}
+variable "vnetResourceGroup" {}
+
